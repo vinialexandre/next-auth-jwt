@@ -1,1 +1,1 @@
-# next-auth-jwt
+# Application Next With Auth/jwt
