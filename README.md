@@ -1,18 +1,27 @@
-<div align="center">
+<div align="left">
 <h1>Application Next With Auth/jwt</h1>
 
 <p>Simple application in nextjs to practice some techniques</p>
-
+<br>
 </div>
+
+### Language
+
+- [x] Typescript
+
+### Technologies
+
+- [x] Next
 
 ### Development Techniques
 
-- [x] Next
 - [x] React Hooks
 - [x] Server-side rendering
 - [x] Nookies
 
-#### Developer
+<br>
+
+### Developer
 
 <table>
   <tr>
